@@ -1,4 +1,0 @@
-[wokwi]
-version = 1
-firmware = '.pio\build\featheresp32\firmware.hex'
-elf = '.pio\build\featheresp32\firmware.elf'
