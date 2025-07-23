@@ -84,7 +84,7 @@ void loop() {
   }
 
   // Logika postur
-  if (abs(pitch) > 45) {
+  if (abs(pitch) > 60) {
     posture_bad = true;
   } else if (abs(pitch) < 20) {
     posture_bad = false;
